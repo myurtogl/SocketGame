@@ -1,0 +1,8 @@
+C:\Users\yesil\OneDrive\Masaüstü\cs408_project1\yesilyurtihsan_Ihsan_Sabri_Yesilyurt_Step1\client\client\client\bin\Release\client.exe.config
+C:\Users\yesil\OneDrive\Masaüstü\cs408_project1\yesilyurtihsan_Ihsan_Sabri_Yesilyurt_Step1\client\client\client\bin\Release\client.exe
+C:\Users\yesil\OneDrive\Masaüstü\cs408_project1\yesilyurtihsan_Ihsan_Sabri_Yesilyurt_Step1\client\client\client\bin\Release\client.pdb
+C:\Users\yesil\OneDrive\Masaüstü\cs408_project1\yesilyurtihsan_Ihsan_Sabri_Yesilyurt_Step1\client\client\client\obj\Release\client.Form1.resources
+C:\Users\yesil\OneDrive\Masaüstü\cs408_project1\yesilyurtihsan_Ihsan_Sabri_Yesilyurt_Step1\client\client\client\obj\Release\client.Properties.Resources.resources
+C:\Users\yesil\OneDrive\Masaüstü\cs408_project1\yesilyurtihsan_Ihsan_Sabri_Yesilyurt_Step1\client\client\client\obj\Release\client.csproj.GenerateResource.Cache
+C:\Users\yesil\OneDrive\Masaüstü\cs408_project1\yesilyurtihsan_Ihsan_Sabri_Yesilyurt_Step1\client\client\client\obj\Release\client.exe
+C:\Users\yesil\OneDrive\Masaüstü\cs408_project1\yesilyurtihsan_Ihsan_Sabri_Yesilyurt_Step1\client\client\client\obj\Release\client.pdb
